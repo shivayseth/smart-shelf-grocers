@@ -4,6 +4,8 @@
 
 Smart-Shelf-Grocers is a Python-based Point of Sale (POS) system designed to manage grocery items and store transaction details. The application features a graphical interface built with Tkinter, enabling users to browse items, manage a shopping cart, and log transactions into a MySQL database.
 
+📘 For a comprehensive understanding of the system architecture, database design, screenshots, code structure, and future improvements, refer to the detailed PDF report included in the repository
+
 ## Features
 
 - **Graphical User Interface**: Created with Tkinter for an intuitive user experience.
